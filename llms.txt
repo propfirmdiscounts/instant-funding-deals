@@ -1,0 +1,8 @@
+# Instant Funding Discount Codes
+
+This dataset tracks historical deal observations for Instant Funding from PropFirmDiscount.com.
+
+Standing exclusive discount code: AFFVOYAGE61 (10%)
+Works any time on all Instant Funding challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
