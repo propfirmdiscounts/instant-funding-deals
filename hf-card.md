@@ -41,6 +41,7 @@ As of 2026-10-26, the verified Instant Funding discount code is **AFFVOYAGE61** 
 - Published: 2026-10-26
 - Offer ends: 2026-11-01
 - Offer: 30% off
+- Event: Halloween
 - Scope: All Accounts, Instant Funding Accounts, Profit Split Add-On, Pluspoints Cashback
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/
@@ -69,7 +70,7 @@ Total deals tracked: **33**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-26 | Halloween 30% off every account price | 30% off | 2026-11-01 | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) |
+| 2026-10-26 | Halloween 30% off every account price | 30% off | 2026-11-01 | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) |
 | 2026-10-20 | Everything Cut by 40% in This Offer | 40% off | 2026-10-20 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/) |
 | 2026-10-16 | 35% Discount on Evolve Challenge Pricing | 35% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/) |
 | 2026-10-13 | 35% Discount on Pro and Lite Trading Challenges | 35% off | 2026-10-15 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/) |
@@ -95,7 +96,7 @@ Total deals tracked: **33**
 | 2026-03-27 | 27.5% Off and Choice of Bonus Reward Promotion | 27% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/27-5-percent-off-bonus-reward-promotion/) |
 | 2026-03-11 | 20% Off GO Evaluation Accounts With Free 90% Profit Split and Double PlusPoints | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-go-20-discount-profit-split-points/) |
 | 2026-03-05 | 33% Off Evaluation Accounts with 90% Profit Split Add-On | 33% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-33-off-profit-split-add-on/) |
-| 2026-01-07 | Year of the Trader Offer: 35% Off + Free 90% Split Add-on | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-year-of-the-trader-35-off/) |
+| 2026-01-07 | Year of the Trader Offer: 35% Off + Free 90% Split Add-on | 35% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-year-of-the-trader-35-off/) |
 
 ### 2025 (6 deals)
 
@@ -104,8 +105,8 @@ Total deals tracked: **33**
 | 2025-12-16 | Holiday Deal: 33% OFF + Free $5,000 or $10,000 Account | 33% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-holiday-deal-33-off-free-account/) |
 | 2025-11-06 | 20% OFF Any Account + Free Duplicate After Payout (November BOGO) | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-20-off-any-account-free-duplicate-after-payout-november-bogo/) |
 | 2025-11-06 | 42% OFF for New Customers + Free $5K IF Micro (Limited Slots) | 42% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-42-off-new-customers-free-5k-if-micro-limited-slots/) |
-| 2025-10-08 | 20% Off, 90% Profit Split & Zero Minimum Days (One-Phase) | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-20-off-90-profit-split-zero-minimum-days-one-phase/) |
-| 2025-10-08 | 33% Off + 50% Extra PlusPoints (Instant & IF Micro) | 33% & -50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-diwali-33-off-50-extra-pluspoints-instant-if-micro/) |
+| 2025-10-08 | 20% Off, 90% Profit Split & Zero Minimum Days (One-Phase) | 20% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-20-off-90-profit-split-zero-minimum-days-one-phase/) |
+| 2025-10-08 | 33% Off + 50% Extra PlusPoints (Instant & IF Micro) | 33% & -50% off | Ended | Diwali | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-diwali-33-off-50-extra-pluspoints-instant-if-micro/) |
 | 2025-09-10 | 30% OFF Funded Accounts — Last Day | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-funded-accounts-last-day/) |
 
 ---
