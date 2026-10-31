@@ -1,31 +1,48 @@
-# Instant Funding - Discount Codes & Deal History
+# Instant Funding Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-26, the verified Instant Funding discount code is **AFFVOYAGE61** — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/instant-funding/
+> Instant Funding redefined prop trading by offering traders direct access to funded accounts through its signature Instant Funding model without profit targets, time limits, or daily drawdowns.
+> By skipping challenges and evaluations, traders can start trading right away and keep up to 90% of their profits, with accounts scaling to $3.82M. This way, they can fully focus on developing their skills and reaching new heights.
+>
+> — Instant Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/instantfunding.com)
 
-**Verified exclusive discount code:** AFFVOYAGE61 (works any time; live rate always on prop firm page)
+- Code: AFFVOYAGE61
+- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-26
+- Trustpilot: 2.8/5 (4369 reviews)
+- Activate: https://propfirmdiscount.com/go/instantfunding
+- Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **AFFVOYAGE61** to get **10% off** on Instant Funding challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Instant Funding evaluation accounts.
+## Current Instant Funding deal: Halloween 30% off every account price
+
+- Published: 2026-10-26
+- Offer ends: 2026-11-01
+- Offer: 30% off
+- Scope: All Accounts, Instant Funding Accounts, Profit Split Add-On, Pluspoints Cashback
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/
+
+## Instant Funding discount code FAQ
+
+**What is the Instant Funding discount code?**
+
+AFFVOYAGE61. It is verified by PropFirmDiscount.com and takes up to 10% off Instant Funding challenges and accounts.
+
+**Does the Instant Funding discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Instant Funding deal?**
+
+**Halloween 30% off every account price** — published 2026-10-26. Offer ends: 2026-11-01. The offer is 30% off.
 
 ---
 
-## Latest Deal
-
-### Instant Funding - Halloween 30% off every account price
-
-**Published:** 2026-10-26  
-**Offer ends:** 2026-11-01  
-**Discount:** 30% off  
-**Scope:** All Accounts, Instant Funding Accounts, Profit Split Add-On, Pluspoints Cashback  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **33**
 
@@ -74,19 +91,20 @@ Total deals tracked: **33**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Instant Funding** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Instant Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/instant-funding/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/instant-funding/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
