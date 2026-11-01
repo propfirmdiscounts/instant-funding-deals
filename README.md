@@ -1,6 +1,6 @@
 # Instant Funding Discount Code
 
-As of 2026-10-26, the verified Instant Funding discount code is **AFFVOYAGE61** — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-10-26, the verified Instant Funding discount code is AFFVOYAGE61 — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > Instant Funding redefined prop trading by offering traders direct access to funded accounts through its signature Instant Funding model without profit targets, time limits, or daily drawdowns.
 > By skipping challenges and evaluations, traders can start trading right away and keep up to 90% of their profits, with accounts scaling to $3.82M. This way, they can fully focus on developing their skills and reaching new heights.
