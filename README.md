@@ -15,7 +15,7 @@ As of 2026-10-26, the verified Instant Funding discount code is AFFVOYAGE61 — 
 ## Current Instant Funding deal: Halloween 30% off every account price
 
 - Published: 2026-10-26
-- Offer ends: 2026-11-01
+- Offer ends: 2026-11-01 (ended)
 - Offer: 30% off
 - Event: Halloween
 - Scope: All Accounts, Instant Funding Accounts, Profit Split Add-On, Pluspoints Cashback
@@ -34,7 +34,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Instant Funding deal?**
 
-**Halloween 30% off every account price** — published 2026-10-26. Offer ends: 2026-11-01. The offer is 30% off.
+**Halloween 30% off every account price** — published 2026-10-26. Offer ends: 2026-11-01 (ended). The offer is 30% off.
 
 ---
 
@@ -46,7 +46,7 @@ Total deals tracked: **33**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-26 | Halloween 30% off every account price | 30% off | 2026-11-01 | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) |
+| 2026-10-26 | Halloween 30% off every account price | 30% off | 2026-11-01 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) |
 | 2026-10-20 | Everything Cut by 40% in This Offer | 40% off | 2026-10-20 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/) |
 | 2026-10-16 | 35% Discount on Evolve Challenge Pricing | 35% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/) |
 | 2026-10-13 | 35% Discount on Pro and Lite Trading Challenges | 35% off | 2026-10-15 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/) |
