@@ -1,6 +1,11 @@
-# Instant Funding Discount Code
+# Instant Funding - Discount Codes & Deal History
 
 As of 2026-11-02, the verified Instant Funding discount code is AFFVOYAGE61 — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+
+> Instant Funding redefined prop trading by offering traders direct access to funded accounts through its signature Instant Funding model without profit targets, time limits, or daily drawdowns.
+> By skipping challenges and evaluations, traders can start trading right away and keep up to 90% of their profits, with accounts scaling to $3.82M. This way, they can fully focus on developing their skills and reaching new heights.
+>
+> — Instant Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/instantfunding.com)
 
 - Code: AFFVOYAGE61
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
@@ -52,7 +57,7 @@ Total deals tracked: **35**
 | 2026-10-20 | Everything Cut by 40% in This Offer | 40% off | 2026-10-20 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/) |
 | 2026-10-16 | 35% Discount on Evolve Challenge Pricing | 35% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/) |
 | 2026-10-13 | 35% Discount on Pro and Lite Trading Challenges | 35% off | 2026-10-15 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/) |
-| 2026-10-02 | 40% Cost Reduction for Entry-Tier Micro Lite Models | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/) |
+| 2026-10-02 | 40% Cost Reduction for Entry-Tier Micro Lite Models | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/) |
 | 2026-09-22 | 37.5% Discount On IF Micro Challenge Pricing | 37% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-37-5-percent-discount-if-micro/) |
 | 2026-09-21 | 10% Off Evolve Trading Challenges | 10% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-10-off-evolve-evaluations/) |
 | 2026-09-11 | 30% Discount & Free 90% Profit Split Evaluation Pricing | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-discount-90-profit-split/) |
