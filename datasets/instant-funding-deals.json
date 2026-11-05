@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13149,
+    "title": "40% Off All Lite Accounts - Ends 9 November",
+    "offer_type": "coupon",
+    "discount_value": "40%",
+    "scope": [
+      "Lite Accounts, Instant Funding Lite, If Micro Lite, One-Phase Lite"
+    ],
+    "date_published": "2026-11-04",
+    "date_exp": "2026-11-09 18:59",
+    "event": null,
+    "last_verified": "2026-11-04",
+    "post_url": "https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/",
+    "prop_firm": "Instant Funding",
+    "prop_firm_slug": "instant-funding",
+    "standing_code": "AFFVOYAGE61",
+    "standing_discount": "10%",
+    "activation_link": "https://propfirmdiscount.com/go/instantfunding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/instant-funding/"
+  },
+  {
     "deal_id": 13091,
     "title": "30% off everything plus add-ons in November",
     "offer_type": "coupon",
