@@ -22,6 +22,7 @@ As of 2026-11-04, the verified Instant Funding discount code is PFD — up to 20
 - Published: 2026-11-04
 - Offer ends: 2026-11-09 18:59
 - Offer: 40% off
+- Event: Diwali
 - Scope: Lite Accounts, Instant Funding Lite, If Micro Lite, One-Phase Lite
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/
@@ -50,7 +51,7 @@ Total deals tracked: **36**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-04 | 40% Off All Lite Accounts - Ends 9 November | 40% off | 2026-11-09 18:59 | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) |
+| 2026-11-04 | 40% Off All Lite Accounts - Ends 9 November | 40% off | 2026-11-09 18:59 | Diwali | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) |
 | 2026-11-02 | 30% off everything plus add-ons in November | 30% off | 2026-11-03 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-everything-add-ons-november/) |
 | 2026-11-02 | 40% off IF Pro and IF Lite in November | 40% off | 2026-11-03 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-if-pro-lite-november/) |
 | 2026-10-26 | Halloween 30% off every account price | 30% off | 2026-11-01 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) |
