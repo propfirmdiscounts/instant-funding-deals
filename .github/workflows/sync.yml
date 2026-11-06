@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: instantfunding
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: instant-funding
   DEALSTORE_ID: 61
   FIRM_NAME: Instant Funding
