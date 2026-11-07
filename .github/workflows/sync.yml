@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: instant-funding-discount-codes
+  HF_NAMESPACE: instantfunding
+  HF_REPO_NAME: instant-funding-deals
   FIRM_SLUG: instant-funding
   DEALSTORE_ID: 61
   FIRM_NAME: Instant Funding
