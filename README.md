@@ -11,11 +11,12 @@ As of 2026-11, the verified Instant Funding discount code is PFD — 20% OFF, wo
 - Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
-- Trustpilot: 2.8/5 (4381 reviews)
-- Activate: https://propfirmdiscount.com/go/instantfunding
-- Firm page: https://propfirmdiscount.com/prop-firm/instant-funding/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [2.8/5 (4381 reviews)](https://www.trustpilot.com/review/instantfunding.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/instant-funding-deals](https://github.com/propfirmdiscounts/instant-funding-deals)
+- Activate: [https://propfirmdiscount.com/go/instantfunding](https://propfirmdiscount.com/go/instantfunding)
+- Firm page: [https://propfirmdiscount.com/prop-firm/instant-funding/](https://propfirmdiscount.com/prop-firm/instant-funding/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Instant Funding deal: 40% Off All Lite Accounts - Ends 9 November
 
@@ -25,7 +26,7 @@ As of 2026-11, the verified Instant Funding discount code is PFD — 20% OFF, wo
 - Event: Diwali
 - Scope: Lite Accounts, Instant Funding Lite, If Micro Lite, One-Phase Lite
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/
+- Deal page: [https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/)
 
 ## Instant Funding discount code FAQ
 
@@ -99,9 +100,9 @@ Total deals tracked: **36**
 
 This repository mirrors every deal **Instant Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/instant-funding/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/instant-funding/](https://propfirmdiscount.com/prop-firm/instant-funding/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/instant-funding-deals.json`
 
