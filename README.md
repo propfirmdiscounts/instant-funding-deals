@@ -1,6 +1,6 @@
-# Instant Funding - Discount Codes & Deal History
+# Instant Funding Discount Code & Deal History
 
-As of November 2026, the verified Instant Funding discount code is AFFVOYAGE61 — 10% OFF, which can be applied on the checkout page anytime. The newest is "40% Off All Lite Accounts - Ends 9 November".
+As of November 2026, the verified Instant Funding discount code is AFFVOYAGE61 — 20% OFF, which can be applied on the checkout page anytime. The newest is "40% Off All Lite Accounts - Ends 9 November".
 
 > Instant Funding redefined prop trading by offering traders direct access to funded accounts through its signature Instant Funding model without profit targets, time limits, or daily drawdowns.
 > By skipping challenges and evaluations, traders can start trading right away and keep up to 90% of their profits, with accounts scaling to $3.82M. This way, they can fully focus on developing their skills and reaching new heights.
@@ -9,7 +9,7 @@ As of November 2026, the verified Instant Funding discount code is AFFVOYAGE61 �
 
 - Code: PFD
 - Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-04
 - Trustpilot: [2.8/5 (4381 reviews)](https://www.trustpilot.com/review/instantfunding.com)
 - GitHub repository: [Instant Funding Deals Repository](https://github.com/propfirmdiscounts/instant-funding-deals)
@@ -18,7 +18,7 @@ As of November 2026, the verified Instant Funding discount code is AFFVOYAGE61 �
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Instant Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Instant Funding deal: 40% Off All Lite Accounts - Ends 9 November
+## Latest Instant Funding deal: 40% Off All Lite Accounts - Ends 9 November
 
 - Published: 2026-11-04
 - Offer ends: 2026-11-09 18:59 (ended)
@@ -28,7 +28,7 @@ As of November 2026, the verified Instant Funding discount code is AFFVOYAGE61 �
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Instant Funding Deal Page](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/)
 
-## Instant Funding discount code FAQ
+## Instant Funding Discount Code & Deals FAQ
 
 **What is the Instant Funding discount code?**
 
@@ -44,7 +44,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Instant Funding Deal History
 
 Total deals tracked: **36**
 
@@ -96,7 +96,7 @@ Total deals tracked: **36**
 
 ---
 
-## About this repository
+## About the Instant Funding Deals Dataset
 
 This repository mirrors every deal **Instant Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -104,7 +104,7 @@ This repository mirrors every deal **Instant Funding** has published on PropFirm
 - Prop firm profile: [Instant Funding Profile](https://propfirmdiscount.com/prop-firm/instant-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/instant-funding-deals.json`
+## Instant Funding Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -136,13 +136,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
