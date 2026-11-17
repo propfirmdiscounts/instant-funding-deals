@@ -1,6 +1,6 @@
 # Instant Funding Discount Code & Deal History
 
-As of November 2026, the verified Instant Funding discount code is AFFVOYAGE61 — 20% OFF, which can be applied on the checkout page anytime. The newest is "40% Off All Lite Accounts - Ends 9 November".
+As of November 2026, the verified Instant Funding discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "40% Off All Lite Accounts - Ends 9 November".
 
 > Instant Funding redefined prop trading by offering traders direct access to funded accounts through its signature Instant Funding model without profit targets, time limits, or daily drawdowns.
 > By skipping challenges and evaluations, traders can start trading right away and keep up to 90% of their profits, with accounts scaling to $3.82M. This way, they can fully focus on developing their skills and reaching new heights.
@@ -11,7 +11,7 @@ As of November 2026, the verified Instant Funding discount code is AFFVOYAGE61 �
 - Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-04
-- Trustpilot: [2.8/5 (4381 reviews)](https://www.trustpilot.com/review/instantfunding.com)
+- Trustpilot: [2.8/5 (4383 reviews)](https://www.trustpilot.com/review/instantfunding.com)
 - GitHub repository: [Instant Funding Deals Repository](https://github.com/propfirmdiscounts/instant-funding-deals)
 - Activate: [Activate Instant Funding Discount Code](https://propfirmdiscount.com/go/instantfunding)
 - Firm page: [Instant Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/instant-funding/)
