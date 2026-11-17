@@ -1,4 +1,4 @@
-# Instant Funding Discount Codes
+# Instant Funding Discount Code & Deals History
 
 This dataset tracks historical deal observations for Instant Funding from PropFirmDiscount.com.
 

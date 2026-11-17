@@ -1,4 +1,4 @@
-# Instant Funding Discount Code & Deal History
+# Instant Funding Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Instant Funding discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "40% Off All Lite Accounts - Ends 9 November".
 
@@ -12,7 +12,7 @@ As of November 2026, the verified Instant Funding discount code is PFD — 20% O
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-04
 - Trustpilot: [2.8/5 (4383 reviews)](https://www.trustpilot.com/review/instantfunding.com)
-- GitHub repository: [Instant Funding Deals Repository](https://github.com/propfirmdiscounts/instant-funding-deals)
+- GitHub repository: [Instant Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/instant-funding-deals)
 - Activate: [Activate Instant Funding Discount Code](https://propfirmdiscount.com/go/instantfunding)
 - Firm page: [Instant Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/instant-funding/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -28,7 +28,7 @@ As of November 2026, the verified Instant Funding discount code is PFD — 20% O
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Instant Funding Deal Page](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/)
 
-## Instant Funding Discount Code & Deals FAQ
+## Instant Funding Discount Code & Deals History FAQ
 
 **What is the Instant Funding discount code?**
 
@@ -44,7 +44,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Instant Funding Deal History
+## Instant Funding Deals History
 
 Total deals tracked: **36**
 
@@ -57,7 +57,7 @@ Total deals tracked: **36**
 | 2026-11-02 | Instant Funding: 40% off IF Pro and IF Lite in November | 40% off | 2026-11-03 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-if-pro-lite-november/) |
 | 2026-10-26 | Instant Funding: Halloween 30% off every account price | 30% off | 2026-11-01 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-halloween-30-off-all-accounts/) |
 | 2026-10-20 | Instant Funding: Everything Cut by 40% in This Offer | 40% off | 2026-10-20 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-everything-midnight/) |
-| 2026-10-16 | Instant Funding: 35% Discount on Evolve Challenge Pricing | 35% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/) |
+| 2026-10-16 | Instant Funding: 35% Discount on Evolve Challenge Pricing | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-evolve/) |
 | 2026-10-13 | Instant Funding: 35% Discount on Pro and Lite Trading Challenges | 35% off | 2026-10-15 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-35-off-pro-lite/) |
 | 2026-10-02 | Instant Funding: 40% Cost Reduction for Entry-Tier Micro Lite Models | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-micro-lite-25k/) |
 | 2026-09-22 | Instant Funding: 37.5% Discount On IF Micro Challenge Pricing | 37% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-37-5-percent-discount-if-micro/) |
@@ -96,7 +96,7 @@ Total deals tracked: **36**
 
 ---
 
-## About the Instant Funding Deals Dataset
+## About the Instant Funding Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Instant Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -104,7 +104,7 @@ This repository mirrors every deal **Instant Funding** has published on PropFirm
 - Prop firm profile: [Instant Funding Profile](https://propfirmdiscount.com/prop-firm/instant-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Instant Funding Deal Dataset: Field Definitions
+## Instant Funding Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
