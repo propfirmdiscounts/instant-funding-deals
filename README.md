@@ -1,6 +1,6 @@
 # Instant Funding Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Instant Funding discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "35% Off IF Micro Pro".
+As of November 2026, the verified Instant Funding discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "40% Off Pro and Lite".
 
 > Instant Funding redefined prop trading by offering traders direct access to funded accounts through its signature Instant Funding model without profit targets, time limits, or daily drawdowns.
 > By skipping challenges and evaluations, traders can start trading right away and keep up to 90% of their profits, with accounts scaling to $3.82M. This way, they can fully focus on developing their skills and reaching new heights.
@@ -10,7 +10,7 @@ As of November 2026, the verified Instant Funding discount code is PFD — 20% O
 - Code: PFD
 - Discount: 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-20
+- Last deal published: 2026-11-21
 - Trustpilot: [2.8/5 (4389 reviews)](https://www.trustpilot.com/review/instantfunding.com)
 - GitHub repository: [Instant Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/instant-funding-deals)
 - Activate: [Activate Instant Funding Discount Code](https://propfirmdiscount.com/go/instantfunding)
@@ -18,15 +18,15 @@ As of November 2026, the verified Instant Funding discount code is PFD — 20% O
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Instant Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest Instant Funding deal: 35% Off IF Micro Pro
+## Latest Instant Funding deal: 40% Off Pro and Lite
 
-- Published: 2026-11-20
+- Published: 2026-11-21
 - Offer ends: Limited time
-- Offer: 35% off
+- Offer: 40% off
 - Event: Black Friday
-- Scope: If Micro Pro Accounts Up To $25K
+- Scope: Instant Funding Pro And Instant Funding Lite
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [Instant Funding Deal Page](https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-if-micro-pro/)
+- Deal page: [Instant Funding Deal Page](https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-40-off-pro-lite/)
 
 ## Instant Funding Discount Code & Deals History FAQ
 
@@ -40,18 +40,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Instant Funding deal?**
 
-**35% Off IF Micro Pro** — published 2026-11-20. Offer ends: Limited time. The offer is 35% off.
+**40% Off Pro and Lite** — published 2026-11-21. Offer ends: Limited time. The offer is 40% off.
 
 ---
 
 ## Instant Funding Deals History
 
-Total deals tracked: **37**
+Total deals tracked: **38**
 
-### 2026 (31 deals)
+### 2026 (32 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-21 | Instant Funding: 40% Off Pro and Lite | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-40-off-pro-lite/) |
 | 2026-11-20 | Instant Funding: 35% Off IF Micro Pro | 35% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-black-friday-35-off-if-micro-pro/) |
 | 2026-11-04 | Instant Funding: 40% Off All Lite Accounts - Ends 9 November | 40% off | 2026-11-09 18:59 (ended) | Diwali | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-40-off-all-lite-accounts/) |
 | 2026-11-02 | Instant Funding: 30% off everything plus add-ons in November | 30% off | 2026-11-03 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/instant-funding/instant-funding-30-off-everything-add-ons-november/) |
